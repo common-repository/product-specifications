@@ -1,0 +1,5 @@
+<?php
+
+namespace {
+    return array('root' => array('name' => 'amiut/product-specifications', 'pretty_version' => '0.8.4', 'version' => '0.8.4.0', 'reference' => 'aa142a027615dde37c5d7911af59f9defd7904b1', 'type' => 'wordpress-plugin', 'install_path' => __DIR__ . '/../../', 'aliases' => array(), 'dev' => \false), 'versions' => array('amiut/product-specifications' => array('pretty_version' => '0.8.4', 'version' => '0.8.4.0', 'reference' => 'aa142a027615dde37c5d7911af59f9defd7904b1', 'type' => 'wordpress-plugin', 'install_path' => __DIR__ . '/../../', 'aliases' => array(), 'dev_requirement' => \false), 'inpsyde/modularity' => array('pretty_version' => '1.8.0', 'version' => '1.8.0.0', 'reference' => 'c6855a6d9c4ce6f090d031e820f176bddf2a0b1c', 'type' => 'library', 'install_path' => __DIR__ . '/../inpsyde/modularity', 'aliases' => array(), 'dev_requirement' => \false), 'psr/container' => array('pretty_version' => '1.1.2', 'version' => '1.1.2.0', 'reference' => '513e0666f7216c7459170d56df27dfcefe1689ea', 'type' => 'library', 'install_path' => __DIR__ . '/../psr/container', 'aliases' => array(), 'dev_requirement' => \false)));
+}
